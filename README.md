@@ -15,4 +15,4 @@
 ## How to Reach Me
 - Email: [paulinet201@gmail.com]
 - LinkedIn: ["https://www.linkedin.com/in/pauline-kihiu"]
-- "Add my profile README"
+git command -m "Add my profile README"
