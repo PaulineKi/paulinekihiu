@@ -15,5 +15,5 @@
 ## How to Reach Me
 - Email: paulinet201@gmail.com
 - LinkedIn: "https://www.linkedin.com/in/pauline-kihiu"
-git command -m "add paulinekihiu.README.md"
+git command -m "add README.md file"
 
