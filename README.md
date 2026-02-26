@@ -16,6 +16,6 @@
 - Email: paulinet201@gmail.com
 - LinkedIn: "https://www.linkedin.com/in/pauline-kihiu"
   
-git commit -m "add README.md file"
+
 
 
